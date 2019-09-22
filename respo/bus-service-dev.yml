@@ -1,6 +1,6 @@
 
 
-foo: foo version 1111
+foo: foo version 1010
 democonfigclient:
   message: hello spring io
 
